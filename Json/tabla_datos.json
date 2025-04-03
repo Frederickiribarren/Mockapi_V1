@@ -1,0 +1,143 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "pais": "chile",
+        "imagen": "/banderas/cl.png"
+    },
+
+    {
+        "nombre": "María",
+        "apellido": "Gómez",
+        "pais": "argentina",
+        "imagen": "/banderas/ar.png"
+    },
+
+    {
+        "nombre": "Carlos",
+        "apellido": "López",
+        "pais": "peru",
+        "imagen": "/banderas/pe.png"
+    },
+
+    {
+        "nombre": "Ana",
+        "apellido": "Martínez",
+        "pais": "chile",
+        "imagen": "/banderas/cl.png"
+    },
+
+    {
+        "nombre": "Luis",
+        "apellido": "Fernández",
+        "pais": "mexico",
+        "imagen": "/banderas/mx.png"
+    },
+
+    {
+        "nombre": "Laura",
+        "apellido": "Ramírez",
+        "pais": "venezuela",
+        "imagen": "/banderas/ve.png"
+    },
+
+    {
+        "nombre": "Pedro",
+        "apellido": "Torres",
+        "pais": "ecuador",
+        "imagen": "/banderas/ec.png"
+    },
+
+    {
+        "nombre": "Sofía",
+        "apellido": "Hernández",
+        "pais": "argentina",
+        "imagen": "/banderas/ar.png"
+    },
+
+    {
+        "nombre": "Diego",
+        "apellido": "Castillo",
+        "pais": "peru",
+        "imagen": "/banderas/pe.png"
+    },
+
+    {
+        "nombre": "Valentina",
+        "apellido": "Morales",
+        "pais": "bolivia",
+        "imagen": "/banderas/bo.png"
+    }
+    ,
+
+    {
+        "nombre": "Andrés",
+        "apellido": "Gutiérrez",
+        "pais": "chile",
+        "imagen": "/banderas/cl.png"
+    },
+
+    {
+        "nombre": "Camila",
+        "apellido": "Salazar",
+        "pais": "argentina",
+        "imagen": "/banderas/ar.png"
+    },
+
+    {
+        "nombre": "Fernando",
+        "apellido": "Cruz",
+        "pais": "peru",
+        "imagen": "/banderas/pe.png"
+    },
+
+    {
+        "nombre": "Isabella",
+        "apellido": "Rojas",
+        "pais": "colombia",
+        "imagen": "/banderas/co.png"
+    },
+
+    {
+        "nombre": "Sebastián",
+        "apellido": "Vargas",
+        "pais": "mexico",
+        "imagen": "/banderas/mx.png"
+    },
+
+    {
+        "nombre": "Natalia",
+        "apellido": "Paredes",
+        "pais": "venezuela",
+        "imagen": "/banderas/ve.png"
+    },
+
+    {
+        "nombre": "Javier",
+        "apellido": "Mendoza",
+        "pais": "ecuador",
+        "imagen": "/banderas/ec.png"
+    },
+
+    {
+        "nombre": "Gabriela",
+        "apellido": "Soto",
+        "pais": "uruguay",
+        "imagen": "/banderas/uy.png"
+    },
+
+    {
+        "nombre": "Mateo",
+        "apellido": "Jiménez",
+        "pais": "paraguay",
+        "imagen": "/banderas/py.png"
+    },
+
+    {
+        "nombre": "Lucía",
+        "apellido": "Cordero",
+        "pais": "bolivia",
+        "imagen": "/banderas/bo.png"
+    }
+
+]
